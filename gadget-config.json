@@ -1,0 +1,7 @@
+{
+  "interaction": {
+    "type": "script",
+    "path": "/sdcard/Download/kidsmod.js",
+    "on_change": "reload"
+  }
+}
