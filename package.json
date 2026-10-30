@@ -1,0 +1,14 @@
+{
+  "name": "kidsmod-android",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "build": "frida-compile index.ts -o kidsmod.js -c"
+  },
+  "devDependencies": {
+    "frida-compile": "^16.4.1",
+    "frida-il2cpp-bridge": "latest",
+    "@types/frida-gum": "^18.7.0",
+    "typescript": "^5.4.0"
+  }
+}
